@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Importing the dataset
-dataset = pd.read_csv('C:/Users/Muhammad Sarim/Desktop/Machine Learning A-Z New/Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/Ads_CTR_Optimisation.csv')
+dataset = pd.read_csv('.csv_path')
 
 # Implementing UCB
 import math
